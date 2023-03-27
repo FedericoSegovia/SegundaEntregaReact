@@ -1,0 +1,23 @@
+[
+    {
+
+        "id":1,
+        "name": "Notebook MSI I7 3060 8GB 16GB RAM",
+        "price": 399000,
+        "img": "https://www.venex.com.ar/products_images/1668773979_msi-4.png"
+
+    },
+    {
+        "id":2,
+        "name": "Placa de video MSI Ventus 3080 TI 12GB",
+        "price": 18000,
+        "img": "https://www.venex.com.ar/products_images/1677151076_navisia.png"
+    },
+     
+    {
+        "id":3,
+        "name": "Gabinete MSI Vampiric",
+        "price": 20000,
+        "img": "https://www.invidcomputers.com/images/0000000000414723463240414723--1-.png"
+    }
+]
